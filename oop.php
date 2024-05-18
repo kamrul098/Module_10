@@ -65,5 +65,3 @@ $member2->borrowBook($book2);
 // Print Available Copies
 echo "Available Copies of '{$book1->getTitle()}': {$book1->getAvailableCopies()}\n";
 echo "Available Copies of '{$book2->getTitle()}': {$book2->getAvailableCopies()}\n";
-
-?>
