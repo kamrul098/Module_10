@@ -13,4 +13,3 @@ foreach ($strings as $string) {
     echo "Original String: $string, Vowel Count: $vowelCount, Reversed String: $reversedString\n";
 }
 
-?>
